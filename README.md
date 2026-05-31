@@ -21,11 +21,19 @@ The VQVAE first compresses skin images into discrete latent codebook indices. Th
 ## VQVAE + Transformer
 
 <p align="center">
-  <img src="assets/transformer_generation.gif" width="1000">
+  <img src="results/skin_1.png" width="1000">
 </p>
 
+<p align="center">
+  <img src="results/skin_2.png" width="1000">
+</p>
 ---
 
+# MORE Test Data Results[TRANSFORMER , RNN, LSTM] 
+
+🔗 https://drive.google.com/drive/folders/1EViWVS-LFkJYwfZwSN6noD-dHtR3S9nk?usp=drive_link
+
+---
 # Google Colab
 
 Run the project directly in Google Colab:
