@@ -21,11 +21,11 @@ The VQVAE first compresses skin images into discrete latent codebook indices. Th
 ## VQVAE + Transformer
 
 <p align="center">
-  <img src="results/skin_1.png" width="1000">
+  <img src="results/skin_1.png" width="800">
 </p>
 
 <p align="center">
-  <img src="results/skin_2.png" width="1000">
+  <img src="results/skin_2.png" width="800">
 </p>
 ---
 
