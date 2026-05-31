@@ -236,6 +236,11 @@ Generated Skin Lesion
 
 ---
 
+# GPU
+* A100 GPU rented from Jarvis Labs
+
+---
+
 # Conclusion
 
 This project investigates latent image generation using VQVAE combined with Transformer, LSTM, and RNN sequence models.
