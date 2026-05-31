@@ -1,5 +1,13 @@
 # Skin Lesion Image Generation using VQVAE, Transformer, LSTM and RNN
 
+# Google Colab
+
+Run the project directly in Google Colab:
+
+🔗 https://drive.google.com/file/d/1QzKfTirUaaf_yQWq4063z9QLLPaKNvL9/view?usp=drive_link
+
+---
+
 ## Introduction
 
 This project focuses on generative modeling of skin lesion images from the ISIC 2016 Skin Disease Dataset.
@@ -30,13 +38,6 @@ The VQVAE first compresses skin images into discrete latent codebook indices. Th
 # MORE Test Data Results[TRANSFORMER , RNN, LSTM] 
 
 🔗 https://drive.google.com/drive/folders/1EViWVS-LFkJYwfZwSN6noD-dHtR3S9nk?usp=drive_link
-
----
-# Google Colab
-
-Run the project directly in Google Colab:
-
-🔗 https://drive.google.com/file/d/1QzKfTirUaaf_yQWq4063z9QLLPaKNvL9/view?usp=drive_link
 
 ---
 
